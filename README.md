@@ -3,8 +3,6 @@
 Welcome to my Weather API!
 
 ## Table of Contents
-- [Weather API](#weather-api)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [App File Structure](#app-file-structure)
   - [Features](#features)
