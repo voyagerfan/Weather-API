@@ -25,11 +25,11 @@ The following is a brief overview of the file structure
 
 [./src/main/java](https://github.com/voyagerfan/Arithmetic-Expression-Evaluator/tree/main/src) - All Java files.
 
-[./src/main/java/myWeatherapp.java](https://github.com/voyagerfan/Arithmetic-Expression-Evaluator/blob/main/src/MyExpressionTest.java) - Main entry point for the program
+[./src/main/java/myWeatherapp.java](https://github.com/voyagerfan/Weather-API/blob/main/src/main/java/myWeatherApp.java) - Main entry point for the program
 
-[./src/main/java/map211.java](https://github.com/voyagerfan/Arithmetic-Expression-Evaluator/blob/main/src/MyExpressionTest.java) - Accepts weather array data generated from weather211.java and creates an HTML.
+[./src/main/java/map211.java](https://github.com/voyagerfan/Weather-API/blob/main/src/main/java/map211.java) - Accepts weather array data generated from weather211.java and creates an HTML.
 
-[./src/main/weather211.java](https://github.com/voyagerfan/Arithmetic-Expression-Evaluator/blob/main/src/InfixToPostfix.java) - Calls the openweather API and with user provided info, parses json and consolidates weather data into an array which is consumed by map211.java
+[./src/main/weather211.java](https://github.com/voyagerfan/Weather-API/blob/main/src/main/java/weather211.java) - Calls the openweather API and with user provided info, parses json and consolidates weather data into an array which is consumed by map211.java
 
 
 
